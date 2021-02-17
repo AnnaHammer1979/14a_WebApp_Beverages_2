@@ -1,0 +1,23 @@
+/* STYLES */
+
+
+p{
+    font-size: 20px;
+    font-weight: 300;
+    ;
+}
+
+img{
+    height: 200px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+}
+
+/* */
+
+button {
+    margin-top: 10px;
+    display:block;
+    height:25px;
+    width:50px;
+}
